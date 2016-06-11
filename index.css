@@ -4,6 +4,7 @@
     height: auto;
 }
 
-#top{
-    height: 100vh;
+body{
+    height: 2000px;
+    background-color: #808080;
 }
